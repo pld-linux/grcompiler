@@ -1,4 +1,3 @@
-# $Revision: 1.8 $, $Date: 2011/07/23 06:34:38 $
 Summary:	SIL Graphite Compiler
 Summary(pl.UTF-8):	Kompilator SIL Graphite
 Name:		grcompiler
