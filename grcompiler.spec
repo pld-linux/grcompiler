@@ -41,6 +41,7 @@ cd test/GrcRegressionTest
 %{__autoconf}
 %{__automake}
 cd ../..
+export CXXFLAGS="%{rpmcxxflags} -std=c++98"
 %configure \
 	DOCBOOK2MAN=/usr/bin/docbook2X2man
 %{__make}
