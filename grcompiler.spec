@@ -2,7 +2,7 @@ Summary:	SIL Graphite Compiler
 Summary(pl.UTF-8):	Kompilator SIL Graphite
 Name:		grcompiler
 Version:	4.2
-Release:	14
+Release:	15
 License:	CPL v0.5+ or LGPL v2.1+
 Group:		Applications
 Source0:	http://downloads.sourceforge.net/silgraphite/%{name}-%{version}.tar.gz
